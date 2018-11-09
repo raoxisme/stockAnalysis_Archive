@@ -1,0 +1,3 @@
+cd C:\Users\i043572\_projects
+jupyter nbconvert --execute --ExecutePreprocessor.timeout=300 generateETFMinutes.ipynb 
+jupyter nbconvert --execute --ExecutePreprocessor.timeout=300 generateStockMinutes.ipynb 
